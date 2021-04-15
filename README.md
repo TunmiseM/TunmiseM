@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tunmise Adeyemo
-- 👀 I’m interested in Flutter
-- 💞️ I’m looking to collaborate on Flutter mobile projects
+- 👀 I’m interested in Flutter & ASP.Net Web API
+- 💞️ I’m looking to collaborate on Flutter mobile projects and build microservices with ASP.Net
 - 📫 How to reach me email to mrtunmiseadeyemo@gmail.com
 
 <!---
